@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
