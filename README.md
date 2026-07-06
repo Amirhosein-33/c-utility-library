@@ -23,7 +23,7 @@
 - فاطمه بی‌تاب - `factorial` ⏳
 - امیر حسین علیزاده - `reverseNumber` ⏳
 - محمد امین حیدری - `sumDigits` ⏳
-- ابوالفضل راستی - `countDigits` ⏳
+- ابوالفضل راستی - `countDigits` ✅
 - یاسین رزمجویی - `gcd` ✅
 - عنایت زاغریان - `lcm` ✅
 - تیاناز طالب‌زاده - `reverseString` ⏳
